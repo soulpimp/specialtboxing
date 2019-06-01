@@ -61,3 +61,11 @@ table {
     width: 100%;
     max-width: 400px;
 }
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 100px;
+    left: 0;
+    right: 0;
+    text-align: center;
+}
