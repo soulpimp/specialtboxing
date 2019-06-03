@@ -52,6 +52,7 @@ table {
 }
 .black-text {
     color: #000;
+    margin: 20px 0;
 }
 .black-text:hover {
     color: red;
@@ -82,7 +83,11 @@ footer {
     .form-container {
         margin-bottom: 10px;
     }
-    .black-text {
-        margin: 20px 0;
-    }
+}
+
+_::-webkit-full-page-media, _:future, :root form {
+    margin:25px 0 0;
+}
+_::-webkit-full-page-media, _:future, :root footer {
+    padding: 10px 0 0;
 }
