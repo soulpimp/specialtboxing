@@ -78,4 +78,7 @@ footer {
     .form-container {
         margin-bottom: 10px;
     }
+    .black-text {
+        margin: 20px 0;
+    }
 }
